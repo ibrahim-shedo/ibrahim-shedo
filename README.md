@@ -6,7 +6,7 @@ I am Ibrahim Shedoh, a full-stack developer and app developer passionate about c
 
 ## Skills
 
-- **Programming Languages**: JavaScript, Python, Java
+- **Programming Languages**: JavaScript, Python, Java, c and c++
 - **Frontend Development**: HTML, CSS, React.js, Angular
 - **Backend Development**: Node.js, Express.js, Django
 - **Database Management**: MongoDB, MySQL, PostgreSQL
@@ -33,7 +33,7 @@ Here are a few projects I've worked on:
 
 Feel free to reach out to me through the following channels:
 
-- Email: [example@email.com](ibrezma.shado@email.com)
+- Email: [ibrezma.shado@gmail.com](ibrezma.shado@email.com)
 - LinkedIn: [Ibrahim Shedoh](https://www.linkedin.com/in/ibrahimshedoh/)
 - Portfolio: [www.ibrahimshedoh.com](https://www.ibrahimshedoh.com)
 
