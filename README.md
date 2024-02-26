@@ -34,7 +34,8 @@ Here are a few projects I've worked on:
 Feel free to reach out to me through the following channels:
 
 - Email: [ibrezma.shado@gmail.com](ibrezma.shado@email.com)
-- LinkedIn: [Ibrahim Shedoh](https://www.linkedin.com/in/ibrahimshedoh/)
+- LinkedIn: [Ibrahim-Shedoh](https://www.linkedin.com/in/ibrahim-shedoh-6804462b7/)
+- instagram: [2shedo](https://www.instagram.com/2shedo/?next=%2F)
 - Portfolio: [www.ibrahimshedoh.com](https://www.ibrahimshedoh.com)
 
 Let's connect and discuss how we can collaborate on exciting projects!
