@@ -13,6 +13,8 @@ I am Ibrahim Shedoh, a full-stack developer and app developer passionate about c
 - **Mobile App Development**: React Native, Flutter
 - **Version Control**: Git, GitHub
 
+- **i'm currently learning API postman
+
 ## Projects
 
 Here are a few projects I've worked on:
