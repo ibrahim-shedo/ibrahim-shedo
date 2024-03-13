@@ -13,7 +13,7 @@ I am Ibrahim Shedoh, a full-stack developer and app developer passionate about c
 - **Mobile App Development**: React Native, Flutter
 - **Version Control**: Git, GitHub
 
-- i'm currently learning API postman and UI/UX figma for frontend
+- i'm currently learning API postman 
 
 ## Projects
 
