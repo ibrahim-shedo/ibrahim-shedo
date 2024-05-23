@@ -10,7 +10,6 @@ I am Ibrahim Shedoh, a full-stack developer and app developer passionate about c
 - **Frontend Development**: HTML, CSS, React.js, Angular
 - **Backend Development**: Node.js, Express.js, Django
 - **Database Management**: MongoDB, MySQL, PostgreSQL
-- **Mobile App Development**: React Native, Flutter
 - **Version Control**: Git, GitHub
 
 
@@ -27,9 +26,6 @@ Here are a few projects I've worked on:
 
    [Link to Project](#)
 
-3. **Task Management Mobile App**: Developed a mobile app using React Native for task management. Users can create, edit, and delete tasks, set deadlines, and receive notifications.
-
-   [Link to Project](#)
 
 ## Contact Me
 
