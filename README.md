@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Ibrahim Shedoh, a full-stack developer and app developer passionate about creating innovative solutions. With expertise in both front-end and back-end technologies, I strive to deliver high-quality software that meets user needs and exceeds expectations.
+I am Ibrahim Shedoh, a full-stack developer passionate about creating innovative solutions. With expertise in both front-end and back-end technologies, I strive to deliver high-quality software that meets user needs and exceeds expectations.
 
 ## Skills
 
