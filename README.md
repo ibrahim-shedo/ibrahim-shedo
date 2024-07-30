@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ibrahim mohammed shedoh</h1>
+<h1 align="center">Hi 👋, I'm ibrahim mohamed shedoh</h1>
 <h3 align="center">A full-stack developer passionate about creating innovative solutions. With expertise in both front-end and back-end technologies, I strive to deliver high-quality software that meets user needs and exceeds expectations.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-shedo" alt="ibrahim-shedo" /></a> </p>
