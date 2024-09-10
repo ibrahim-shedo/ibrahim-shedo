@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/4shedo" target="blank"><img src="https://img.shields.io/twitter/follow/4shedo?logo=twitter&style=for-the-badge" alt="4shedo" /></a> </p>
 
-- 🔭 I’m currently working on EDA **30-Days-Of-DevPython-Projects**
+- 🔭 I’m currently working on **30-Days-Of-DevOps-Projects**
 
 - 🌱 I’m currently learning **AI engineering**
 
