@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on real time sing language detection **30-Days-Of-DevOps-Projects**
 
-- 🌱 I’m currently learning **AI engineering - real time detection**
+- 🌱 I’m currently learning **AI engineering - object detection**
 
 - 💬 Ask me about **frontend,backend development and data science**
 
