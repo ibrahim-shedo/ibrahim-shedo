@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohamed Shedoh</h1>
-<h3 align="center">passionate and innovative AI Engineer and Full-Stack Developer committed to building intelligent, scalable, and impactful digital solutions. With a robust foundation in both front-end and back-end technologies, as well as a deep expertise in artificial intelligence, I specialize in transforming complex problems into efficient, user-centric applications.</h3>
+<h3 align="center">An AI Engineer and Data Scientist focused on transforming complex data and problems into meaningful, efficient, and user-friendly applications. With expertise in deep learning, machine learning, data analysis, and full-stack development, I strive to create intelligent solutions that empower users, optimize processes, and deliver actionable insights..</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-shedo" alt="ibrahim-shedo" /></a> </p>
 
