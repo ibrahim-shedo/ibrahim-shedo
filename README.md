@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Developing a Fake News Detection system using AI and Machine Learning to identify and classify misinformation accurately.**
 
-- 🌱 I’m currently learning **AI engineering - object detection**
+- 🌱 I’m currently learning **AI engineering**
 
 - 💬 Ask me about **full stack, data science and AI engineer**
 
