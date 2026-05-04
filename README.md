@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI engineering**
 
-- 💬 Ask me about **full stack, data science and AI engineer**
+- 💬 Ask me about **ML engineering, data science and AI engineer**
 
 - 📫 How to reach me **ibrezma.shado@gmail.com**
 
