@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Developing Loan Approval & Risk Analysis System for bank.**
 
-- 🌱 I’m currently learning **AI engineering**
+- 🌱 I’m currently learning **ML engineering**
 
 - 💬 Ask me about **ML engineering, data science and AI engineer**
 
