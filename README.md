@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/4shedo" target="blank"><img src="https://img.shields.io/twitter/follow/4shedo?logo=twitter&style=for-the-badge" alt="4shedo" /></a> </p>
 
-- 🔭 I’m currently working on **Developing Loan Approval & Risk Analysis System for bank.**
+- 🔭 I’m currently working on **cargo system for client .**
 
 - 🌱 I’m currently learning **ML engineering**
 
